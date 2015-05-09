@@ -6,12 +6,10 @@
 
 Smoke es el Plugin Jquery mas completo y ligero diseñado para usarse en Bootstrap 3
 
+To get started check out [http://alfredobarron.github.io/smoke](http://alfredobarron.github.io/smoke)
 
 
-Para empezar, echa un vistazo a [http://alfredobarron.github.io/smoke](http://alfredobarron.github.io/smoke)
-
-
-## Tabla de contenidos
+## table of Contents
 
  - [Inicio](#inicio)
  - [Requiere](#requiere)
@@ -22,38 +20,38 @@ Para empezar, echa un vistazo a [http://alfredobarron.github.io/smoke](http://al
 
 
 
-## Inicio
+## start
 
-Existen tres opciones disponibles para iniciar:
+There is 3 options to start
 
-- [Descarga la versión más reciente.](https://github.com/alfredobarron/smoke/archive/master.zip)
-- Clona el repositorio: `git clone https://github.com/alfredobarron/smoke.git`.
-- Instala con [Bower](http://bower.io/): `bower install smoke`.
+- [Download the latest version.](https://github.com/alfredobarron/smoke/archive/master.zip)
+- Clone the repository: `git clone https://github.com/alfredobarron/smoke.git`.
+- Install with [Bower](http://bower.io/): `bower install smoke`.
 
-Lee la página de [primeros pasos](http://alfredobarron.github.io/smoke/#/getting-started) para obtener más información sobre el contenido.
+Read the page of [first steps](http://alfredobarron.github.io/smoke/#/getting-started) get more information about the content.
 
-##Requiere
+##Requires
 
-Para que funcione el plugin Smoke se requiere de la librería [Jquery](http://jquery.com/) y del framework [Bootstrap 3.](http://getbootstrap.com/)
+To Smoke plugin works, the [Jquery](http://jquery.com/) library and the [Bootstrap 3.](http://getbootstrap.com/) framework is required
 
-##Documentación
+##Documentation
 
-La documentación la puedes consultar en [http://alfredobarron.github.io/smoke/#/getting-started](http://alfredobarron.github.io/smoke/#/getting-started)
+The documentation is available at [http://alfredobarron.github.io/smoke/#/getting-started](http://alfredobarron.github.io/smoke/#/getting-started)
 
 
 ##Comunidad
 
-No pierdas de vista el desarrollo y noticias para la comunidad.
+Keep an eye on the development and news for the community.
 
-- Sigueme [@AlfredoBarronC](https://twitter.com/AlfredoBarronC) en Twitter.
-- Lee y suscríbete en mi [FanPage](https://www.facebook.com/AlfredoBarronC) de Facebook.
-- Añademe a tus círculos en [Google+.](https://plus.google.com/+Alfredobarron)
-- Visita mi pagina oficial [www.alfredobarron.com](http://www.alfredobarron.com)
+- Follow me [@AlfredoBarronC](https://twitter.com/AlfredoBarronC) on Twitter.
+- Subscríbe to my [FanPage](https://www.facebook.com/AlfredoBarronC) Facebook.
+- Add me to your circles of Google+[Google+.](https://plus.google.com/+Alfredobarron)
+- Visit my official page [www.alfredobarron.com](http://www.alfredobarron.com)
 
-##Creador
+##Created by
 
 Alfredo Barron
 
-##Derechos de autor y licencias
+##Author rights and licensing
 
-Código y documentación (c) Copyright 2015 Alfredo Barron. Código publicado bajo la [licencia GPL v3.](https://github.com/alfredobarron/smoke/blob/master/LICENSE)
+Code and documentation (c) Copyright 2015 Alfredo Barron. Code published under the [GPL v3.](https://github.com/alfredobarron/smoke/blob/master/LICENCIA)
